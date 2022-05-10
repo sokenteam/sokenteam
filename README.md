@@ -1,4 +1,4 @@
-## Soken team welcomes you! 💙
+## Soken welcomes you! 💙
 
 ![Soken Github Banner](https://github.com/sokenteam/sokenteam/blob/main/header.png)
 
