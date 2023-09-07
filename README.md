@@ -1,6 +1,5 @@
 ## Soken welcomes you! 💙
 
-![Soken Github Banner](https://github.com/sokenteam/sokenteam/blob/main/header.png)
 
 ## Where you can find us 🔗 
 
